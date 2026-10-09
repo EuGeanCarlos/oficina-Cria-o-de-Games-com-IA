@@ -1,0 +1,311 @@
+# 🎮 50 Prompts para Criar Jogos com IA
+
+## 1. 🤖 Robô dos Cristais
+
+> Crie um jogo de plataforma chamado **“Robô dos Cristais”** usando HTML Canvas e JavaScript. O jogador controla um pequeno robô usando as setas esquerda e direita e pula com espaço. Crie plataformas, 5 cristais para coletar e pequenos monstros como obstáculos. Cada cristal vale 10 pontos. O jogador começa com 3 vidas. Depois de coletar todos os cristais, um portal deve ser desbloqueado. O jogador vence ao entrar no portal. Mostre pontuação, vidas e cristais coletados. Adicione tela de vitória, Game Over e botão para jogar novamente. Coloque todo o código em um único arquivo HTML.
+
+---
+
+## 2. 🚀 Missão Espacial
+
+> Crie um jogo chamado **“Missão Espacial”** usando HTML Canvas e JavaScript. O jogador controla uma nave usando as setas do teclado e dispara lasers com espaço. Meteoros e pequenas naves inimigas devem aparecer. O objetivo é destruir 20 inimigos e sobreviver até chegar a uma estação espacial. O jogador possui 3 vidas. Cada inimigo vale 10 pontos. Adicione estrelas, planetas e efeitos simples de explosão. Mostre pontuação, vidas e inimigos restantes. Faça tudo em um único arquivo HTML.
+
+---
+
+## 3. 🦖 Fuga dos Dinossauros
+
+> Crie um jogo de plataforma chamado **“Fuga dos Dinossauros”** usando HTML Canvas e JavaScript. O jogador controla um explorador em uma floresta pré-histórica. Use as setas para andar e espaço para pular. O jogador deve coletar 5 fósseis e escapar até um jipe. Coloque dinossauros pequenos, pedras e buracos como obstáculos. Mostre pontuação, vidas e fósseis encontrados. Faça tudo em um único arquivo HTML.
+
+---
+
+## 4. 🌊 Guardião do Oceano
+
+> Crie um jogo educativo chamado **“Guardião do Oceano”** usando HTML Canvas e JavaScript. O jogador controla um mergulhador usando as setas. O objetivo é coletar 15 objetos de plástico no fundo do mar e evitar águas-vivas, redes e outros obstáculos. Cada lixo coletado vale 10 pontos. O jogador possui 3 vidas. Ao terminar, mostre uma mensagem sobre preservação dos oceanos. Crie tudo em um único arquivo HTML.
+
+---
+
+## 5. 🏴‍☠️ Ilha do Tesouro
+
+> Crie um jogo de aventura chamado **“Ilha do Tesouro”** usando HTML Canvas e JavaScript. O jogador controla um pirata usando as setas e espaço para pular. Espalhe 5 pedaços de um mapa pela ilha. Coloque caranguejos, armadilhas e piratas rivais. Quando todas as partes forem coletadas, mostre um X indicando o tesouro. O jogador vence ao chegar até ele. Mostre pontuação, vidas e partes do mapa. Faça tudo em um único HTML.
+
+---
+
+## 6. 🧙 Escola de Magia
+
+> Crie um jogo chamado **“Escola de Magia”** usando HTML Canvas e JavaScript. O jogador controla um aprendiz de mago usando as setas e lança magia com espaço. O objetivo é coletar 7 livros mágicos enquanto evita fantasmas e criaturas encantadas. Cada livro vale 10 pontos. Ao coletar todos, uma porta mágica aparece. Mostre pontuação, vidas e livros encontrados. Faça todo o jogo em um único arquivo HTML.
+
+---
+
+## 7. 🐝 Missão das Abelhas
+
+> Crie um jogo educativo chamado **“Missão das Abelhas”** usando HTML Canvas e JavaScript. O jogador controla uma abelha e deve visitar 10 flores para coletar pólen. Use as setas para voar. Coloque pássaros, teias e gotas de chuva como obstáculos. Cada flor vale 10 pontos. Ao completar a missão, o jogador deve voltar à colmeia. Mostre pontuação, vidas e flores visitadas. Faça tudo em um único HTML.
+
+---
+
+## 8. 🏎️ Turbo Robô
+
+> Crie um jogo de corrida chamado **“Turbo Robô”** usando HTML Canvas e JavaScript. O jogador controla um carro-robô usando as setas esquerda e direita. A pista deve se mover continuamente. Coloque cones, pedras e outros veículos como obstáculos. Espalhe baterias pelo caminho. Cada bateria vale 10 pontos. O jogador começa com 3 vidas. Mostre pontuação, vidas e distância percorrida. Faça tudo em um único arquivo HTML.
+
+---
+
+## 9. 🧩 Labirinto Perdido
+
+> Crie um jogo de labirinto chamado **“Labirinto Perdido”** usando HTML Canvas e JavaScript. O jogador controla um pequeno personagem com as quatro setas. O objetivo é encontrar 5 chaves escondidas e chegar até a saída. Coloque monstros patrulhando alguns corredores. Cada chave vale 10 pontos. Mostre pontuação, vidas e chaves coletadas. Faça tudo em um único HTML.
+
+---
+
+## 10. 👾 Defesa Digital
+
+> Crie um jogo inspirado em Space Invaders chamado **“Defesa Digital”** usando HTML Canvas e JavaScript. O jogador controla um robô na parte inferior da tela e atira com espaço. Vírus digitais devem descer lentamente. O jogador precisa destruir todos antes que cheguem ao chão. Cada vírus vale 10 pontos. Adicione 3 vidas, pontuação e fases com dificuldade crescente. Faça tudo em um único arquivo HTML.
+
+---
+
+## 11. 🍕 Pizzaria Maluca
+
+> Crie um jogo chamado **“Pizzaria Maluca”** usando HTML, CSS e JavaScript. Mostre pedidos de pizzas e ingredientes espalhados pela tela. O jogador deve selecionar os ingredientes corretos antes que o tempo acabe. Cada pizza correta vale 50 pontos. Faça 5 pedidos com dificuldade crescente. Mostre pontuação, tempo e pedido atual. Adicione tela final e botão para jogar novamente. Faça tudo em um único HTML.
+
+---
+
+## 12. 🚒 Bombeiro Heroico
+
+> Crie um jogo educativo chamado **“Bombeiro Heroico”** usando HTML Canvas e JavaScript. O jogador controla um bombeiro usando as setas. O objetivo é apagar 5 focos de incêndio dentro de um prédio. Coloque fumaça, caixas e áreas bloqueadas como obstáculos. Mostre pontuação, vidas e incêndios restantes. Ao terminar, mostre uma mensagem educativa sobre prevenção de incêndios. Coloque tudo em um único HTML.
+
+---
+
+## 13. 🧊 Expedição Polar
+
+> Crie um jogo chamado **“Expedição Polar”** usando HTML Canvas e JavaScript. O jogador controla um explorador no Polo Norte. Use as setas para andar e espaço para pular. O jogador deve coletar 5 amostras científicas e chegar até uma estação de pesquisa. Coloque gelo escorregadio, rachaduras e blocos de neve. Mostre pontuação, vidas e amostras coletadas. Faça tudo em um único HTML.
+
+---
+
+## 14. 🌋 Fuga do Vulcão
+
+> Crie um jogo de plataforma chamado **“Fuga do Vulcão”** usando HTML Canvas e JavaScript. O jogador precisa subir plataformas enquanto a lava aumenta lentamente. Coloque pedras caindo e explosões como obstáculos. Espalhe 5 cristais vulcânicos pelo cenário. O jogador vence ao chegar até um helicóptero. Mostre pontuação, vidas e nível da lava. Faça tudo em um único arquivo HTML.
+
+---
+
+## 15. 🐱 Resgate dos Gatinhos
+
+> Crie um jogo chamado **“Resgate dos Gatinhos”** usando HTML Canvas e JavaScript. O jogador controla um personagem em um parque e deve encontrar 5 gatinhos perdidos. Use as setas para andar e espaço para pular. Coloque árvores, bancos, buracos e cães como obstáculos. Cada gatinho vale 20 pontos. Depois de encontrar todos, leve-os até uma casinha. Faça tudo em um único HTML.
+
+---
+
+## 16. 🧬 Laboratório Científico
+
+> Crie um jogo educativo chamado **“Laboratório Científico”** usando HTML, CSS e JavaScript. Mostre perguntas sobre instrumentos científicos como microscópio, béquer, termômetro e tubo de ensaio. O jogador deve escolher o objeto correto para cada situação. Cada acerto vale 10 pontos. Faça 10 desafios e mostre uma explicação após cada resposta. Adicione pontuação final e botão para reiniciar.
+
+---
+
+## 17. 🌱 Fazenda Sustentável
+
+> Crie um jogo educativo chamado **“Fazenda Sustentável”** usando HTML Canvas e JavaScript. O jogador controla um fazendeiro que deve plantar árvores, coletar materiais recicláveis e regar plantas. Coloque lama, pedras e cercas como obstáculos. Mostre pontuação, árvores plantadas e itens reciclados. Ao final, exiba uma mensagem sobre sustentabilidade. Faça tudo em um único HTML.
+
+---
+
+## 18. 🏰 Cavaleiro do Castelo
+
+> Crie um jogo de aventura chamado **“Cavaleiro do Castelo”** usando HTML Canvas e JavaScript. O jogador controla um cavaleiro usando as setas e espaço para pular. Ele deve coletar 5 chaves e chegar até a sala do tesouro. Coloque morcegos, esqueletos e armadilhas. Mostre pontuação, vidas e chaves coletadas. Faça tudo em um único arquivo HTML.
+
+---
+
+## 19. 🤠 Velho Oeste
+
+> Crie um jogo chamado **“Aventura no Velho Oeste”** usando HTML Canvas e JavaScript. O jogador controla um xerife em uma pequena cidade. Use as setas para andar. O objetivo é coletar 5 estrelas de xerife e chegar até a estação de trem. Coloque barris, carroças e bandidos como obstáculos. Mostre pontuação e vidas. Faça tudo em um único HTML.
+
+---
+
+## 20. 🏀 Desafio do Basquete
+
+> Crie um jogo de basquete chamado **“Desafio das Cestas”** usando HTML Canvas e JavaScript. O jogador controla a força e o ângulo de um arremesso. Use espaço para lançar a bola. Cada cesta vale pontos. Faça a cesta mudar de posição a cada rodada. O jogador tem 10 tentativas para conseguir a maior pontuação possível. Mostre pontuação, tentativas restantes e recorde da partida. Coloque tudo em um único HTML.
+
+---
+
+## 21. ⚽ Craque dos Pênaltis
+
+> Crie um jogo chamado **“Craque dos Pênaltis”** usando HTML Canvas e JavaScript. O jogador deve escolher a direção do chute usando as setas e pressionar espaço para chutar. Um goleiro deve tentar defender. Faça 10 cobranças. Cada gol vale 10 pontos. A dificuldade deve aumentar gradualmente. Mostre gols, tentativas e pontuação. Faça tudo em um único HTML.
+
+---
+
+## 22. 🧟 Fuga dos Zumbis Cartoon
+
+> Crie um jogo divertido e não assustador chamado **“Fuga dos Zumbis Cartoon”** usando HTML Canvas e JavaScript. O jogador controla um personagem que deve atravessar uma cidade evitando zumbis caricatos. Use as setas para andar e espaço para pular. Colete 5 kits de emergência antes de chegar ao abrigo. Mostre pontuação e vidas. Use visual infantil e sem violência gráfica. Faça tudo em um único HTML.
+
+---
+
+## 23. 🐉 Reino dos Dragões
+
+> Crie um jogo chamado **“Reino dos Dragões”** usando HTML Canvas e JavaScript. O jogador controla um pequeno dragão usando as setas para voar e espaço para lançar bolas de energia. O objetivo é coletar 5 ovos mágicos enquanto evita torres, nuvens de tempestade e outros dragões. Mostre pontuação, vidas e ovos coletados. Faça tudo em um único HTML.
+
+---
+
+## 24. 🎃 Castelo Assombrado
+
+> Crie um jogo chamado **“Castelo Assombrado”** usando HTML Canvas e JavaScript. O jogador controla um explorador em um castelo com fantasmas divertidos. Ele deve coletar 5 velas mágicas para iluminar a saída. Coloque portas, corredores e armadilhas simples. Mostre pontuação, vidas e velas coletadas. Use visual misterioso, mas apropriado para crianças. Faça tudo em um único HTML.
+
+---
+
+## 25. 🥷 Ninja das Estrelas
+
+> Crie um jogo de plataforma chamado **“Ninja das Estrelas”** usando HTML Canvas e JavaScript. O jogador controla um pequeno ninja usando as setas e espaço para pular. O objetivo é coletar 10 estrelas douradas e chegar até um templo. Coloque plataformas, bambus, pedras e guardas como obstáculos. Mostre pontuação e vidas. Faça tudo em um único HTML.
+
+---
+
+## 26. 🐠 Peixinho Aventureiro
+
+> Crie um jogo chamado **“Peixinho Aventureiro”** usando HTML Canvas e JavaScript. O jogador controla um peixe usando as setas. O objetivo é coletar 10 bolhas especiais enquanto evita águas-vivas, corais e peixes maiores. Cada bolha vale 10 pontos. Mostre pontuação e vidas. Adicione um recife colorido e animações simples. Faça tudo em um único HTML.
+
+---
+
+## 27. 🍎 Cesta de Frutas
+
+> Crie um jogo chamado **“Cesta de Frutas”** usando HTML Canvas e JavaScript. Frutas devem cair do topo da tela. O jogador controla uma cesta usando as setas esquerda e direita. Cada fruta coletada vale pontos. Objetos errados, como pedras, fazem perder uma vida. O jogador começa com 3 vidas. A velocidade deve aumentar com o tempo. Mostre pontuação e vidas. Faça tudo em um único HTML.
+
+---
+
+## 28. 🌌 Buraco Negro
+
+> Crie um jogo espacial chamado **“Fuga do Buraco Negro”** usando HTML Canvas e JavaScript. O jogador controla uma nave que está sendo puxada por um buraco negro. Use as setas para desviar de meteoros e coletar células de energia. Cada célula aumenta a distância da nave em relação ao buraco negro. O objetivo é sobreviver durante 60 segundos. Mostre energia, pontuação e tempo. Faça tudo em um único HTML.
+
+---
+
+## 29. 🧠 Desafio da Memória
+
+> Crie um jogo educativo de memória chamado **“Desafio da Memória”** usando HTML, CSS e JavaScript. Mostre cartas viradas para baixo com imagens de tecnologia, animais ou objetos. O jogador deve encontrar os pares iguais. Conte o número de movimentos e o tempo da partida. Quando todos os pares forem encontrados, mostre a pontuação e um botão para jogar novamente. Faça tudo em um único HTML.
+
+---
+
+## 30. 🔢 Matemática Ninja
+
+> Crie um jogo educativo chamado **“Matemática Ninja”** usando HTML Canvas e JavaScript. Mostre contas simples de matemática e três plataformas com possíveis respostas. O jogador controla um ninja e deve pular na plataforma correspondente à resposta correta. Cada acerto vale 10 pontos. Faça 10 questões. Respostas erradas fazem perder uma vida. Mostre pontuação, vidas e questão atual. Faça tudo em um único HTML.
+
+---
+
+## 31. 🌍 Volta ao Mundo
+
+> Crie um jogo educativo chamado **“Volta ao Mundo”** usando HTML, CSS e JavaScript. Mostre uma pergunta sobre países, capitais, bandeiras ou continentes. Apresente três opções de resposta. Cada resposta correta move um avião para um novo destino. Faça 10 perguntas. Mostre pontuação e progresso da viagem. Ao completar, exiba a mensagem “Você deu a volta ao mundo!”. Faça tudo em um único HTML.
+
+---
+
+## 32. 🦸 Cidade dos Heróis
+
+> Crie um jogo chamado **“Cidade dos Heróis”** usando HTML Canvas e JavaScript. O jogador controla um super-herói que deve atravessar a cidade e resgatar 5 cidadãos. Use as setas para andar e espaço para pular. Coloque carros, buracos e obstáculos nas ruas. Cada resgate vale 20 pontos. Mostre pontuação e vidas. Faça tudo em um único HTML.
+
+---
+
+## 33. 🎸 Banda Virtual
+
+> Crie um jogo musical chamado **“Banda Virtual”** usando HTML, CSS e JavaScript. Mostre notas musicais descendo pela tela. O jogador deve pressionar as teclas A, S, D e F quando as notas chegarem à linha de acerto. Cada acerto vale pontos e erros quebram uma sequência de combos. Mostre pontuação, combo e precisão. Crie uma música simples usando sons gerados pelo navegador. Faça tudo em um único HTML.
+
+---
+
+## 34. ☄️ Chuva de Meteoros
+
+> Crie um jogo chamado **“Chuva de Meteoros”** usando HTML Canvas e JavaScript. O jogador controla um pequeno personagem na parte inferior da tela usando as setas. Meteoros caem do céu e devem ser evitados. Estrelas douradas também aparecem e podem ser coletadas para ganhar pontos. O objetivo é sobreviver o maior tempo possível. Mostre pontuação, vidas e tempo. Faça tudo em um único HTML.
+
+---
+
+## 35. 🛸 Caçador de OVNIs
+
+> Crie um jogo chamado **“Caçador de OVNIs”** usando HTML Canvas e JavaScript. Pequenos discos voadores aparecem aleatoriamente no céu. O jogador controla um telescópio ou câmera e deve clicar nos OVNIs antes que desapareçam. Cada OVNI vale pontos diferentes. A partida dura 60 segundos. Mostre tempo e pontuação. Adicione níveis de dificuldade. Faça tudo em um único HTML.
+
+---
+
+## 36. 🏝️ Sobrevivência na Ilha
+
+> Crie um jogo chamado **“Sobrevivência na Ilha”** usando HTML Canvas e JavaScript. O jogador controla um personagem em uma ilha e deve coletar madeira, frutas e água. O objetivo é reunir recursos suficientes para construir uma jangada. Coloque pedras, rios e animais como obstáculos. Mostre quantidade de recursos e energia. Ao construir a jangada, mostre tela de vitória. Faça tudo em um único HTML.
+
+---
+
+## 37. 🚂 Expresso Aventureiro
+
+> Crie um jogo chamado **“Expresso Aventureiro”** usando HTML Canvas e JavaScript. O jogador controla um trem usando as setas para mudar entre trilhos. Coloque obstáculos e moedas ao longo da ferrovia. O objetivo é chegar até a estação final sem perder todas as vidas. Cada moeda vale 10 pontos. A velocidade aumenta gradualmente. Mostre pontuação, vidas e distância. Faça tudo em um único HTML.
+
+---
+
+## 38. 🐸 Sapo Atravessador
+
+> Crie um jogo inspirado em Frogger chamado **“Sapo Atravessador”** usando HTML Canvas e JavaScript. O jogador controla um sapinho usando as quatro setas. Ele precisa atravessar uma estrada e depois um rio utilizando troncos flutuantes. Coloque carros e outros obstáculos em movimento. O jogador tem 3 vidas. Cada travessia completa vale pontos. Faça tudo em um único HTML.
+
+---
+
+## 39. 🍬 Reino dos Doces
+
+> Crie um jogo de plataforma chamado **“Reino dos Doces”** usando HTML Canvas e JavaScript. O jogador controla um personagem em um mundo feito de doces. Use as setas para andar e espaço para pular. Colete 10 balas mágicas e evite monstros de chocolate. Ao coletar todas, abra o castelo de açúcar. Mostre pontuação e vidas. Faça tudo em um único HTML.
+
+---
+
+## 40. 🦜 Floresta Amazônica
+
+> Crie um jogo educativo chamado **“Aventura na Floresta Amazônica”** usando HTML Canvas e JavaScript. O jogador controla um pesquisador e deve fotografar 5 animais da floresta, como arara, macaco, tucano, onça e boto. Use as setas para se movimentar. Mostre uma curiosidade sobre cada animal encontrado. Evite rios, galhos e outros obstáculos. Mostre pontuação e animais registrados. Faça tudo em um único HTML.
+
+---
+
+## 41. 🏺 Explorador do Egito
+
+> Crie um jogo de aventura chamado **“Mistério da Pirâmide”** usando HTML Canvas e JavaScript. O jogador controla um arqueólogo dentro de uma pirâmide. Ele deve coletar 5 artefatos e encontrar a saída. Coloque corredores, portas secretas, blocos e armadilhas simples. Cada artefato vale 20 pontos. Mostre pontuação, vidas e artefatos coletados. Faça tudo em um único HTML.
+
+---
+
+## 42. 🔧 Oficina de Robôs
+
+> Crie um jogo educativo chamado **“Oficina de Robôs”** usando HTML, CSS e JavaScript. Mostre diferentes robôs com peças faltando, como bateria, braço, sensor ou roda. O jogador deve escolher a peça correta para consertar cada robô. Faça 8 desafios. Cada resposta correta vale 10 pontos e deve mostrar uma explicação curta. Mostre pontuação final e botão para jogar novamente. Faça tudo em um único HTML.
+
+---
+
+## 43. 💻 Monte seu Computador
+
+> Crie um jogo educativo chamado **“Monte seu Computador”** usando HTML, CSS e JavaScript. Mostre um gabinete aberto e peças como placa-mãe, CPU, cooler, RAM, SSD, GPU e fonte. O jogador deve arrastar cada peça para o local correto. Cada acerto vale 10 pontos. O cooler deve ser instalado sobre a CPU. Use cores e formatos diferentes para facilitar a identificação das peças. Mostre uma explicação sobre cada componente. Ao terminar, faça o computador ligar. Coloque tudo em um único HTML.
+
+---
+
+## 44. 🕵️ Detetive Digital
+
+> Crie um jogo chamado **“Detetive Digital”** usando HTML, CSS e JavaScript. Apresente pequenas situações relacionadas à segurança na internet, como senhas fracas, links suspeitos, mensagens desconhecidas e compartilhamento de dados pessoais. O jogador deve escolher a atitude mais segura entre três opções. Faça 10 casos. Cada acerto vale 10 pontos e deve mostrar uma explicação educativa. Mostre pontuação final e classificação. Faça tudo em um único HTML.
+
+---
+
+## 45. 🧹 Caça aos Vírus
+
+> Crie um jogo chamado **“Caça aos Vírus”** usando HTML Canvas e JavaScript. O jogador controla um antivírus representado por um pequeno robô dentro de um computador. Ele deve coletar arquivos seguros e eliminar vírus digitais usando espaço. Coloque pastas, chips e circuitos como cenário. Cada vírus eliminado vale pontos. O jogador possui 3 vidas. Mostre pontuação, vidas e vírus restantes. Faça tudo em um único HTML.
+
+---
+
+## 46. 🪐 Explorador dos Planetas
+
+> Crie um jogo educativo chamado **“Explorador dos Planetas”** usando HTML Canvas e JavaScript. O jogador controla uma nave que viaja pelo Sistema Solar. Em cada planeta, mostre uma pergunta simples sobre suas características. Respostas corretas liberam combustível para continuar a viagem. Faça perguntas sobre Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno. Mostre pontuação e progresso. Faça tudo em um único HTML.
+
+---
+
+## 47. 🏗️ Construtor de Pontes
+
+> Crie um jogo chamado **“Construtor de Pontes”** usando HTML, CSS e JavaScript. O jogador deve montar uma pequena ponte usando blocos disponíveis na tela. Depois de montar, um carrinho deve atravessar para testar a estrutura. Se a ponte falhar, mostre uma mensagem amigável e permita tentar novamente. Faça 5 fases com vãos diferentes. Mostre pontuação e fase atual. Use física simples. Faça tudo em um único HTML.
+
+---
+
+## 48. 🚦 Cidade Segura
+
+> Crie um jogo educativo chamado **“Cidade Segura”** usando HTML Canvas e JavaScript. O jogador controla um pedestre e deve atravessar ruas respeitando semáforos e faixas de pedestres. Carros devem passar pelas ruas. O jogador ganha pontos ao atravessar corretamente e perde uma vida se atravessar em um momento perigoso. Faça várias travessias com dificuldade crescente. Mostre pontuação e vidas. Ao final, mostre dicas de segurança no trânsito. Faça tudo em um único HTML.
+
+---
+
+## 49. 🧹 Missão Reciclagem
+
+> Crie um jogo educativo chamado **“Missão Reciclagem”** usando HTML, CSS e JavaScript. Objetos como papel, plástico, vidro, metal e lixo orgânico devem aparecer na tela. O jogador deve arrastá-los para a lixeira correspondente. Cada acerto vale 10 pontos. Erros devem mostrar uma explicação simples. Faça pelo menos 20 objetos. Mostre pontuação e quantidade correta. Ao final, exiba uma mensagem sobre reciclagem. Faça tudo em um único HTML.
+
+---
+
+## 50. 🕰️ Viagem no Tempo
+
+> Crie um jogo de aventura chamado **“Viagem no Tempo”** usando HTML Canvas e JavaScript. O jogador controla um pequeno cientista que viaja por diferentes épocas. Crie quatro fases curtas: dinossauros, Egito Antigo, Idade Média e futuro. Em cada fase, o jogador deve coletar um objeto especial e chegar até uma máquina do tempo. Use as setas para movimentar e espaço para pular. Cada fase deve ter obstáculos diferentes. Mostre pontuação, vidas e época atual. Depois de completar todas as fases, mostre uma tela de vitória. Faça todo o jogo em um único arquivo HTML.
+
+---
+
+# 💡 Complemento para qualquer prompt
+
+Você pode acrescentar este trecho ao final de qualquer um dos prompts:
+
+> O visual deve ser colorido, moderno, amigável e apropriado para crianças de 10 a 12 anos. O código deve ser simples, organizado e comentado. Coloque HTML, CSS e JavaScript em um único arquivo chamado `jogo.html`, que possa ser aberto diretamente no navegador sem instalar bibliotecas externas. Adicione uma tela inicial explicando a missão, uma tela de vitória, uma tela de Game Over quando necessário e um botão “Jogar novamente”.
+
+## 🚀 Prompt para melhorar qualquer jogo depois
+
+> Pegue o jogo atual e não remova nenhuma funcionalidade existente. Melhore os gráficos, animações e interface. Adicione efeitos visuais quando o jogador coleta itens ou ganha pontos, crie uma tela inicial mais bonita, inclua instruções dos controles e deixe o jogo mais divertido e intuitivo para crianças de 10 a 12 anos. Mantenha tudo funcionando em um único arquivo HTML.
