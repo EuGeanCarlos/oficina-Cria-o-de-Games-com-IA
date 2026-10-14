@@ -1,3 +1,55 @@
+# Oficina de criação de games com IA
+
+Material de oficina com prompts para orientar a criação de jogos educativos. O repositório contém instruções, não jogos implementados.
+
+## Tecnologias
+
+- Engenharia de prompts
+
+## Funcionalidades e utilização
+
+Leia README.md e PROMPTS; copie um prompt para a ferramenta de IA de sua escolha e revise o código gerado antes de executá-lo.
+
+## Como executar
+
+```bash
+git clone https://github.com/EuGeanCarlos/oficina-Cria-o-de-Games-com-IA.git
+cd oficina-Cria-o-de-Games-com-IA
+```
+
+Leia README.md e PROMPTS; copie um prompt para a ferramenta de IA de sua escolha e revise o código gerado antes de executá-lo.
+
+## Demonstração e publicação
+
+Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+
+GitHub Pages hospeda arquivos estáticos e não executa Java, Node.js, PHP ou Python. As dependências de servidor deste projeto devem ser executadas em ambiente apropriado.
+
+## Estrutura versionada
+
+```text
+PROMPTS
+README.md
+```
+
+## Status
+
+Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue o que está implementado das dependências ou etapas pendentes.
+
+## Autor e créditos
+
+**Gean Carlos** — estudante de Engenharia de Computação, UEMA.
+
+[GitHub](https://github.com/EuGeanCarlos)
+
+Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+---
+
+## Documentação original e contexto
+
+O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
+
 # 🎮 Prompts para Criação de Games com IA
 
 Este repositório reúne **prompts prontos para criação de jogos simples usando Inteligência Artificial**, com foco em **HTML, CSS, JavaScript e HTML Canvas**.
